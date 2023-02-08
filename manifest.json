@@ -1,0 +1,78 @@
+{
+
+  "name": "PROFILE",
+
+  "short_name": "AWDEV PROFILE",
+
+  "start_url": "https://wahyu9kdl.github.io/profile",
+
+  "display": "standalone",
+
+  "background_color": "#fff",
+
+  "theme_color": "#243b99",
+  
+  "keyword": "profile",
+  
+  "description": "AWDEV PROFILE WEBSITE  HTML ,CSS , JavaScript 
+  
+  The fruit of patience is sweet Let's check the webpage",
+  "icons": [{
+
+    "src": "/resources/img/ico.png",
+
+    "sizes": "48x48",
+
+    "type": "image/png"
+
+  }, {
+
+    "src": "/resources/img/ico.png",
+
+    "sizes": "72x72",
+
+    "type": "image/png"
+
+  }, {
+
+    "src": "/resources/img/ico.png",
+
+    "sizes": "96x96",
+
+    "type": "image/png"
+
+  }, {
+
+    "src": "/resources/img/ico.png",
+
+    "sizes": "144x144",
+
+    "type": "image/png"
+
+  }, {
+
+    "src": "/resources/img/ico.png",
+
+    "sizes": "168x168",
+
+    "type": "image/png"
+
+  }, {
+
+    "src": "/resources/img/ico.png",
+
+    "sizes": "192x192",
+
+    "type": "image/png"
+
+  }, {
+
+    "src": "/resources/img/ico.png ",
+
+    "sizes": "512x512",
+
+    "type": "image/png"
+
+  }]
+
+}
